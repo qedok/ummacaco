@@ -1,2 +1,2 @@
 # ummacaco
-um macaco
+um macaco curativo
