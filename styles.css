@@ -17,3 +17,16 @@ th, td{
     border: 1px solid black;   
     padding: 5px;
 }
+
+.topotamadre {
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid {
+    background-color: green;
+    display: grid;
+    grid-column-gap: 20px
+    grid-row-gap: 10px
+    grid-template-columns: auto auto auto
+
+}
